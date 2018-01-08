@@ -1,0 +1,5 @@
+then put the sd card in the pi and run
+
+
+you need to add  add-ons 
+example http://fusion.tvaddons.co
